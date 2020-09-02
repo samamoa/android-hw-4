@@ -18,6 +18,16 @@
 <br>
 <hr>
 
+## صور
+<br>
+<p align="center">
+<img src = "https://github.com/kuwaitcodes/android-hw-4/blob/master/List.png" width = "350px" margin="auto"/>
+</p>
+<br>
+
+<br>
+<hr>
+
 ### بونص!
 
 <br>
@@ -25,6 +35,11 @@
 1. ضع أيقونة الحذف
 <br>
 2. برمج حذف البيكومون
+<br>
+<br>
+<p align="center">
+<img src = "https://github.com/kuwaitcodes/android-hw-4/blob/master/List2.png" width = "350px" margin="auto"/>
+</p>
 <br>
 
 ### بونص 2!
