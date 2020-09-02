@@ -4,14 +4,17 @@
 ### الخطوات 
 
 <br>
-&#x202b; 1. أكمل الواجب السابق عن طريق جمع كل الـ editText 
-واظهار النتيجة ب textView (استعين بالدالة  من الواجب الأول)
-
+1. قم بعمل التصميم الموضح في الصورة ادنى 
 <br>
+2. شاهد الفيديوهات
 <br>
-
-&#x202b; 2. أن تضيف زر ثاني  reset لإعادة الألة الحاسبة فارغة من جديد
+3. RecyclerView on Main Activity 
 <br>
+4. Pokemon ArrayList لخمس عناصر
+<br>
+5. RecyclerView بال Activity ربط
+<br>
+6. تأكد من ان تستطيع الأنتقال الى صفحة التفاصيل عند الضغط على العناصر
 <br>
 <hr>
 
@@ -19,15 +22,19 @@
 
 <br>
 
-&#x202b; 1. أن تضيف زر ثاني  reset لإعادة الألة الحاسبة فارغة من جديد
+1. ضع أيقونة الحذف
+<br>
+2. برمج حذف البيكومون
+<br>
 
+### بونص 2!
 <br>
-<br>
+#### تحدى نفسك و ارنا إن كنت تستطيع 
 <hr>
 <b>آخر موعد لرفع الكود
 
-&#x202b; 26/6/2020
+&#x202b; 6/10/2020
 
-![alt text](https://lh4.googleusercontent.com/dm9T_iz8OnZRN0W6ETaiJ1u9vFi_YyPcgattIdJ-VdWUqspzcf8mg5cfHZPIR2jXaYfLNIH20XjHMRHxgJjkTnUQsfUxraV9iEXCDDPPRhGQoNxdXc-WIg9K2I5N80tdm9eG5Iza5l8)
+
 
 </div>
