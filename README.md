@@ -24,6 +24,9 @@
 <img src = "https://github.com/kuwaitcodes/android-hw-4/blob/master/List.png" width = "350px" margin="auto"/>
 </p>
 <br>
+<p align="center">
+<img src = "https://github.com/kuwaitcodes/android-hw-4/blob/master/List2.png" width = "350px" margin="auto"/>
+</p>
 
 <br>
 <hr>
@@ -37,10 +40,7 @@
 2. برمج حذف البيكومون
 <br>
 <br>
-<p align="center">
-<img src = "https://github.com/kuwaitcodes/android-hw-4/blob/master/List2.png" width = "350px" margin="auto"/>
-</p>
-<br>
+
 
 ### بونص 2!
 <br>
